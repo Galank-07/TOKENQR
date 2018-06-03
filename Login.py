@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-import LINEZX
+import SLACKBOT
 from tcr.ttypes import *
 from datetime import datetime
 import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, six, ast
 
-cl = LINEZX.LINE()
+cl = SLACKBOT.LINE()
 cl.login(qr=True)
 cl.loginResult()
 
