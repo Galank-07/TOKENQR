@@ -449,7 +449,7 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("[ LINE ZX ]")
+      print("[TΣΔM SLΔCҜβΩT]")
       print("MID : " + prof.mid)
       print("NAME : " + prof.displayName)
       print("AuthToken :  " + self.authToken)
