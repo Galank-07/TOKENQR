@@ -30,7 +30,7 @@ class Config():
     APP_TYPE    = ApplicationType._VALUES_TO_NAMES[400]
     APP_VER     = '7.18.1'
     CARRIER     = '51089, 1-0'
-    SYSTEM_NAME = 'WaifuBOT'
+    SYSTEM_NAME = 'SlackBOT'
     SYSTEM_VER  = '11.2.5'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
